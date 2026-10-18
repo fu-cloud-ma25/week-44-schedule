@@ -3,19 +3,18 @@
 
 ## Introduktion
 
-Hur bygger och driftsätter man moderna applikationer utan att behöva hantera egna servrar? Den här veckan introducerar vi molnbaserad utveckling och serverlessarkitektur.
-
-Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur Serverless Framework hjälper oss att utveckla och driftsätta serverlessapplikationer direkt från vår lokala dator. Under veckan bygger vi våra första Lambda-funktioner och får en överblick över hur hela kursens arkitektur kommer att se ut.
+Hur får vi våra Lambda-funktioner att kommunicera med andra applikationer? Den här veckan introducerar vi REST API:er och lär oss hur vi kan använda API Gateway för att göra våra Lambda-funktioner tillgängliga via HTTP.
+Vi går igenom hur HTTP fungerar, hur vi strukturerar våra endpoints och hanterar inkommande förfrågningar och svar. Vi introducerar även Middy och lär oss hur vi kan använda färdiga middlewares för att förenkla vår kod och hantera vanligt förekommande uppgifter.
 
 ## Mål för veckan:
 
-1. Förstå grunderna i molnbaserad utveckling.
-2. Förstå skillnaden mellan traditionell serverdrift och serverless.
-3. Förstå hur en serverlessarkitektur är uppbyggd.
-4. Installera och konfigurera AWS CLI och Serverless Framework.
-5. Skapa och deploya ett serverlessprojekt.
-5. Skriva och driftsätta en första Lambda-funktion.
-
+1. Förstå vad ett REST API är och hur det fungerar.
+2. Förstå HTTP-metoder, statuskoder och request/response.
+3. Skapa och konfigurera endpoints med API Gateway.
+4. Hantera inkommande data via path parameters, query parameters och request body.
+5. Förstå vad middleware är och varför det används.
+6. Använda färdiga middlewares med Middy.
+7. Bygga och driftsätta ett enklare REST API.
 
 ## Resurser
 
@@ -32,7 +31,7 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Lektionsrepon
 
-* [20 okt]()
+* []()
 
 ### Länkar
 
@@ -40,7 +39,4 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Övningar 
 
-* [IAM Bootcamp]()
-* [Lambda Bootcamp]()
-* [Serverless Framework Bootcamp]()
 
