@@ -20,7 +20,8 @@ Vi går igenom hur HTTP fungerar, hur vi strukturerar våra endpoints och hanter
 
 ### Presentationer
 
-* 01 - [API Gateway](https://docs.google.com/presentation/d/1J-fuJA9-Fk16NQSNjK_F2oTV-plKrYfy/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 01 - [REST API](https://docs.google.com/presentation/d/1XtZIRLubLy3Tj_MPkVxb5qAsKckxoEuI/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 02 - [API Gateway](https://docs.google.com/presentation/d/1J-fuJA9-Fk16NQSNjK_F2oTV-plKrYfy/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 
 ### Inspelade föreläsningar
