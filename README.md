@@ -20,12 +20,11 @@ Vi går igenom hur HTTP fungerar, hur vi strukturerar våra endpoints och hanter
 
 ### Presentationer
 
-* 01 - []()
+* 01 - [API Gateway](https://docs.google.com/presentation/d/1J-fuJA9-Fk16NQSNjK_F2oTV-plKrYfy/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 
 ### Inspelade föreläsningar
 
-**Lektionsinspelat**
 * 01 - []()
 
 
@@ -35,7 +34,7 @@ Vi går igenom hur HTTP fungerar, hur vi strukturerar våra endpoints och hanter
 
 ### Länkar
 
-* [AWS CLI Cheat Sheet]()
+* [AWS CLI Cheat Sheet](https://github.com/fu-cloud-ma25/week-43-aws-cli-cheat-sheet)
 
 ### Övningar 
 
