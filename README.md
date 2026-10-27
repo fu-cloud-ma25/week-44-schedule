@@ -26,12 +26,12 @@ Vi går igenom hur HTTP fungerar, hur vi strukturerar våra endpoints och hanter
 
 ### Inspelade föreläsningar
 
-* 01 - []()
+* 01 - [REST API & API Gateway](https://funet.sharepoint.com/:v:/s/MobilapplikationsutvecklareYhdistans-Klass25/IQBUgNu-_YkTQYCMiSLMg-8PAWoucJZSjFrVeK4RtWMLsLI?e=xaDRMw)
 
 
 ### Lektionsrepon
 
-* []()
+* [27 okt](https://github.com/fu-cloud-ma25/week-44-lecture-27-okt)
 
 ### Länkar
 
